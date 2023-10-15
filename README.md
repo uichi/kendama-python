@@ -108,6 +108,7 @@ Endpoints do not require authorization.
 
 
 ## Author
+[uichi](https://github.com/uichi)
 
 
 
