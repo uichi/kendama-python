@@ -37,6 +37,7 @@ setup(
     author="uichi",
     author_email="37263474+uichi@users.noreply.github.com",
     url="https://github.com/uichi/kendama-python",
+    license="MIT",
     keywords=["OpenAPI", "OpenAPI-Generator", "国税庁API"],
     install_requires=REQUIRES,
     packages=find_packages(exclude=["test", "tests"]),
