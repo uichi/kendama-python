@@ -1,3 +1,5 @@
+[![Downloads](https://static.pepy.tech/badge/kendama)](https://pepy.tech/project/kendama)
+
 # kendama
 国税庁が提供するインボイス制度適格請求書発行事業者公表システムWeb-APIを使用するためのクライアントAPI(https://www.invoice-kohyo.nta.go.jp/web-api/index.html)
 
